@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a Research Assistant at [Universitat Politècnica de Catalunya](https://www.upc.edu/en) in Barcelona (Spain), working at the [ViRVIG](https://www.virvig.eu/) research group.
+Hello! I am a Ph.D. student at [Universitat Politècnica de Catalunya](https://www.upc.edu/en) in Barcelona (Spain), working at the [ViRVIG](https://www.virvig.eu/) research group.
 
 My research interests are **computer animation**, **virtual and augmented reality**, **deep learning** and **computer graphics**.
 
