@@ -23,29 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-a-post-with-plotly-js",
-        
-          title: "a post with plotly.js",
-        
-        description: "this is what included plotly.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
-        
-          title: "a post with image galleries",
-        
-        description: "this is what included image galleries could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/photo-gallery/";
-          
-        },
-      },{id: "books-the-godfather",
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
@@ -82,6 +60,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-am-starting-an-internship-at-max-planck-institute-for-informatics-under-the-supervision-of-prof-dr-christian-theobalt",
           title: 'I am starting an internship at Max Planck Institute for Informatics under the...',
+          description: "",
+          section: "News",},{id: "news-our-paper-dragposer-was-accepted-at-eurographics-2025",
+          title: 'Our paper DragPoser was accepted at Eurographics 2025.',
           description: "",
           section: "News",},{id: "projects-avatargo",
           title: 'AvatarGo',
