@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: # leave blank to include all the news in the `_news` folder
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -29,8 +29,8 @@ latest_posts:
 
 Hello! I am a Ph.D. student at [Universitat Politècnica de Catalunya](https://www.upc.edu/en) in Barcelona (Spain), working at the [ViRVIG](https://www.virvig.eu/) research group.
 
-My research interests are **computer animation**, **virtual and augmented reality**, **deep learning** and **computer graphics**.
+My research interests are **character animation**, **virtual and augmented reality**, **deep learning** and **computer graphics**.
 
-Currently, I am working in **data-driven character animation**, in particular, motion understanding and synthesis, retargeting, inverse kinematics, motion capture and virtual reality avatars. 
+Currently, I am working in **data-driven character animation**, in particular, motion understanding and synthesis, motion matching, retargeting, inverse kinematics, motion capture and virtual reality avatars. 
 
 I received my M.Sc. in Computer Graphics and B.S. in Computer Science at [Universitat Politècnica de Catalunya](https://www.upc.edu/en).
