@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.upc.edu/en'>UPC</a>. Character Animation. Machine Learning. Computer Graphics. XR.
+subtitle: Generative AI. Deep Learning. Character Animation. Computer Graphics. XR/VR.
 
 profile:
   align: right
@@ -27,10 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a Ph.D. student at [Universitat Politècnica de Catalunya](https://www.upc.edu/en) in Barcelona (Spain), working at the [ViRVIG](https://www.virvig.eu/) research group.
+Hello! Recent Ph.D. graduate specializing in character animation and artificial intelligence for virtual humans. Currently a Research Intern at Meta Reality Labs, with previous experience at the Max Planck Institute for Informatics and a tech startup, where I contributed to motion capture and animation pipelines. Passionate about applying state-of-the-art technology to create the next generation of characters for games, film, and interactive media.
 
-My research interests are **character animation**, **virtual and augmented reality**, **deep learning** and **computer graphics**.
-
-Currently, I am working in **data-driven character animation**, in particular, motion understanding and synthesis, motion matching, retargeting, inverse kinematics, motion capture and virtual reality avatars. 
-
-I received my M.Sc. in Computer Graphics and B.S. in Computer Science at [Universitat Politècnica de Catalunya](https://www.upc.edu/en).
+My research interests are **generative AI**, **deep learning**, **character animation**, **computer graphics** and **XR/VR**.
