@@ -120,18 +120,11 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/yt/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%6F%73%65.%6C%75%69%73.%70%6F%6E%74%6F%6E@%75%70%63.%65%64%75", "_blank");
+          window.open("mailto:%6A%6F%73%65%6C%75%69%73%70%6D%32@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
