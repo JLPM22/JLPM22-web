@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a Computer Graphics researcher and recent Ph.D. graduate from [UPC](https://www.upc.edu/en) Barcelona, specializing in **Generative AI** and **character animation**. Currently, I am a **Research Scientist Intern at Meta Reality Labs** in Zurich, working on scalable AI-based motion stylization.
+Hello! I am a Computer Graphics researcher and recent Ph.D. graduate from [UPC](https://www.upc.edu/en) Barcelona, specializing in **Generative AI** and **character animation**. Currently, I am a Research Scientist Intern at **Meta Reality Labs** in Zurich, working on scalable AI-based motion stylization.
 
-My background bridges academia and startups; I have conducted research on Generative AI at the **Max Planck Institute** and developed motion capture pipelines for a **Y Combinator startup**. **My research focuses on applying AI to character animation, with a growing interest in the intersection of virtual motion control and robotics.**
+My background bridges academia and startups; I have conducted research on Generative AI at the **Max Planck Institute** and developed motion capture pipelines for a **Y Combinator startup**. 
+
+**My research focuses on applying AI to character animation, with a growing interest in the intersection of virtual motion control and robotics.**
