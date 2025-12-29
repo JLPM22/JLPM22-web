@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2025-12-26'
+  last_updated: '2025-12-29'
 papers:
   yNa9qSIAAAAJ:2osOgNQ5qMEC:
     citations: 4
     title: Motion Matching for Character Animation and Virtual Reality Avatars in Unity
     year: '2022'
+  yNa9qSIAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: Learning data-driven character animation for avatars in virtual reality
+    year: '2025'
   yNa9qSIAAAAJ:4TOpqqG69KYC:
     citations: 0
     title: 'Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles'
@@ -22,7 +26,7 @@ papers:
     title: 'Fitted avatars: automatic skeleton adjustment for self-avatars in virtual reality'
     year: '2023'
   yNa9qSIAAAAJ:W7OEmFMy1HYC:
-    citations: 48
+    citations: 49
     title: 'Sparseposer: Real-time full-body motion reconstruction from sparse data'
     year: '2023'
   yNa9qSIAAAAJ:_FxGoFyzp5QC:
@@ -38,7 +42,7 @@ papers:
     title: 'PADELVIC: Multicamera videos and motion capture data in padel matches'
     year: '2024'
   yNa9qSIAAAAJ:qjMakFHDy7sC:
-    citations: 49
+    citations: 51
     title: Combining Motion Matching and Orientation Prediction to Animate Avatars for Consumer-Grade VR Devices
     year: '2022'
   yNa9qSIAAAAJ:roLk4NBRz8UC:
@@ -54,6 +58,6 @@ papers:
     title: Exploring the role of expected collision feedback in crowded virtual environments
     year: '2024'
   yNa9qSIAAAAJ:zYLM7Y9cAGgC:
-    citations: 25
+    citations: 26
     title: 'Animation fidelity in self-avatars: Impact on user performance and sense of agency'
     year: '2023'
