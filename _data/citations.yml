@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-29'
+  last_updated: '2026-01-09'
 papers:
   yNa9qSIAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -38,11 +38,11 @@ papers:
     title: Environment-aware Motion Matching
     year: '2025'
   yNa9qSIAAAAJ:eQOLeE2rZwMC:
-    citations: 3
+    citations: 4
     title: 'PADELVIC: Multicamera videos and motion capture data in padel matches'
     year: '2024'
   yNa9qSIAAAAJ:qjMakFHDy7sC:
-    citations: 51
+    citations: 50
     title: Combining Motion Matching and Orientation Prediction to Animate Avatars for Consumer-Grade VR Devices
     year: '2022'
   yNa9qSIAAAAJ:roLk4NBRz8UC:
@@ -58,6 +58,6 @@ papers:
     title: Exploring the role of expected collision feedback in crowded virtual environments
     year: '2024'
   yNa9qSIAAAAJ:zYLM7Y9cAGgC:
-    citations: 26
+    citations: 25
     title: 'Animation fidelity in self-avatars: Impact on user performance and sense of agency'
     year: '2023'
