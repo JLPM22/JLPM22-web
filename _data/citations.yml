@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-12'
+  last_updated: '2026-01-19'
 papers:
   yNa9qSIAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -58,6 +58,6 @@ papers:
     title: Exploring the role of expected collision feedback in crowded virtual environments
     year: '2024'
   yNa9qSIAAAAJ:zYLM7Y9cAGgC:
-    citations: 25
+    citations: 26
     title: 'Animation fidelity in self-avatars: Impact on user performance and sense of agency'
     year: '2023'
