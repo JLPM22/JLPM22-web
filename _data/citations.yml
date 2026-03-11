@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-11'
 papers:
   yNa9qSIAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -22,7 +22,7 @@ papers:
     title: 'DragPoser: Motion Reconstruction from Variable Sparse Tracking Signals via Latent Space Optimization'
     year: '2025'
   yNa9qSIAAAAJ:Tyk-4Ss8FVUC:
-    citations: 18
+    citations: 19
     title: 'Fitted avatars: automatic skeleton adjustment for self-avatars in virtual reality'
     year: '2023'
   yNa9qSIAAAAJ:W7OEmFMy1HYC:
@@ -30,7 +30,7 @@ papers:
     title: 'Sparseposer: Real-time full-body motion reconstruction from sparse data'
     year: '2023'
   yNa9qSIAAAAJ:_FxGoFyzp5QC:
-    citations: 9
+    citations: 10
     title: 'Stretch your reach: Studying self-avatar and controller misalignment in virtual reality interaction'
     year: '2024'
   yNa9qSIAAAAJ:aqlVkmm33-oC:
