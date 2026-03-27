@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-03-27'
 papers:
   yNa9qSIAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -26,7 +26,7 @@ papers:
     title: 'Fitted avatars: automatic skeleton adjustment for self-avatars in virtual reality'
     year: '2023'
   yNa9qSIAAAAJ:W7OEmFMy1HYC:
-    citations: 55
+    citations: 57
     title: 'Sparseposer: Real-time full-body motion reconstruction from sparse data'
     year: '2023'
   yNa9qSIAAAAJ:_FxGoFyzp5QC:
