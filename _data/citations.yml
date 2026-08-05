@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-05'
 papers:
   yNa9qSIAAAAJ:2osOgNQ5qMEC:
     citations: 5
@@ -14,7 +14,7 @@ papers:
     title: 'Step2Motion: Locomotion reconstruction from pressure sensing insoles'
     year: '2026'
   yNa9qSIAAAAJ:IjCSPb-OGe4C:
-    citations: 18
+    citations: 17
     title: 'AvatarGo: Plug and Play self-avatars for VR'
     year: '2022'
   yNa9qSIAAAAJ:LkGwnXOMwfcC:
@@ -26,11 +26,11 @@ papers:
     title: 'STyMo: Fast and Controllable Few-Shot Motion Style Transfer'
     year: '2026'
   yNa9qSIAAAAJ:Tyk-4Ss8FVUC:
-    citations: 23
+    citations: 22
     title: 'Fitted avatars: automatic skeleton adjustment for self-avatars in virtual reality'
     year: '2023'
   yNa9qSIAAAAJ:W7OEmFMy1HYC:
-    citations: 65
+    citations: 66
     title: 'Sparseposer: Real-time full-body motion reconstruction from sparse data'
     year: '2023'
   yNa9qSIAAAAJ:Wp0gIr-vW9MC:
@@ -38,7 +38,7 @@ papers:
     title: Monkey see, monkey break? Study of rule-breaking imitation in virtual crowds
     year: '2026'
   yNa9qSIAAAAJ:_FxGoFyzp5QC:
-    citations: 14
+    citations: 13
     title: 'Stretch your reach: Studying self-avatar and controller misalignment in virtual reality interaction'
     year: '2024'
   yNa9qSIAAAAJ:aqlVkmm33-oC:
@@ -47,10 +47,10 @@ papers:
     year: '2025'
   yNa9qSIAAAAJ:eQOLeE2rZwMC:
     citations: 5
-    title: 'PADELVIC: Multicamera videos and motion capture data of an amateur padel match'
+    title: 'PADELVIC: Multicamera videos and motion capture data in padel matches'
     year: '2024'
   yNa9qSIAAAAJ:qjMakFHDy7sC:
-    citations: 57
+    citations: 58
     title: Combining Motion Matching and Orientation Prediction to Animate Avatars for Consumer-Grade VR Devices
     year: '2022'
   yNa9qSIAAAAJ:roLk4NBRz8UC:
@@ -66,6 +66,6 @@ papers:
     title: Exploring the role of expected collision feedback in crowded virtual environments
     year: '2024'
   yNa9qSIAAAAJ:zYLM7Y9cAGgC:
-    citations: 36
+    citations: 37
     title: 'Animation fidelity in self-avatars: Impact on user performance and sense of agency'
     year: '2023'
