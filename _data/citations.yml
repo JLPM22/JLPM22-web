@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-28'
 papers:
   yNa9qSIAAAAJ:2osOgNQ5qMEC:
     citations: 5
@@ -30,7 +30,7 @@ papers:
     title: 'Fitted avatars: automatic skeleton adjustment for self-avatars in virtual reality'
     year: '2023'
   yNa9qSIAAAAJ:W7OEmFMy1HYC:
-    citations: 66
+    citations: 68
     title: 'Sparseposer: Real-time full-body motion reconstruction from sparse data'
     year: '2023'
   yNa9qSIAAAAJ:Wp0gIr-vW9MC:
@@ -42,7 +42,7 @@ papers:
     title: 'Stretch your reach: Studying self-avatar and controller misalignment in virtual reality interaction'
     year: '2024'
   yNa9qSIAAAAJ:aqlVkmm33-oC:
-    citations: 2
+    citations: 3
     title: Environment-aware Motion Matching
     year: '2025'
   yNa9qSIAAAAJ:eQOLeE2rZwMC:
@@ -66,6 +66,6 @@ papers:
     title: Exploring the role of expected collision feedback in crowded virtual environments
     year: '2024'
   yNa9qSIAAAAJ:zYLM7Y9cAGgC:
-    citations: 37
+    citations: 38
     title: 'Animation fidelity in self-avatars: Impact on user performance and sense of agency'
     year: '2023'
