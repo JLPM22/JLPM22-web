@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-09-04'
+  last_updated: '2026-09-07'
 papers:
   yNa9qSIAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -13,6 +13,10 @@ papers:
     citations: 0
     title: 'Step2Motion: Locomotion reconstruction from pressure sensing insoles'
     year: '2026'
+  yNa9qSIAAAAJ:IWHjjKOFINEC:
+    citations: 0
+    title: Cross-Morphology Motion Transfer with Semantic Style Alignment
+    year: '2026'
   yNa9qSIAAAAJ:IjCSPb-OGe4C:
     citations: 17
     title: 'AvatarGo: Plug and Play self-avatars for VR'
@@ -22,7 +26,7 @@ papers:
     title: 'DragPoser: Motion Reconstruction from Variable Sparse Tracking Signals via Latent Space Optimization'
     year: '2025'
   yNa9qSIAAAAJ:QIV2ME_5wuYC:
-    citations: 0
+    citations: 1
     title: 'STyMo: Fast and Controllable Few-Shot Motion Style Transfer'
     year: '2026'
   yNa9qSIAAAAJ:Tyk-4Ss8FVUC:
@@ -30,7 +34,7 @@ papers:
     title: 'Fitted avatars: automatic skeleton adjustment for self-avatars in virtual reality'
     year: '2023'
   yNa9qSIAAAAJ:W7OEmFMy1HYC:
-    citations: 68
+    citations: 69
     title: 'Sparseposer: Real-time full-body motion reconstruction from sparse data'
     year: '2023'
   yNa9qSIAAAAJ:Wp0gIr-vW9MC:
@@ -58,7 +62,7 @@ papers:
     title: Combining Motion Matching and Orientation Prediction to Animate Avatars for Consumer-Grade VR Devices
     year: '2022'
   yNa9qSIAAAAJ:roLk4NBRz8UC:
-    citations: 21
+    citations: 22
     title: 'XR4ED: an extended reality platform for education'
     year: '2024'
   yNa9qSIAAAAJ:u5HHmVD_uO8C:
